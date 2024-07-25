@@ -1,0 +1,35 @@
+textarea {
+    height: 100px;
+    margin: 20px;
+    resize: inherit;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 10px;
+}
+
+.container {
+    text-align: center;
+}
+
+.navbar {
+    padding: 0 0 6rem;
+    background-color: black;
+}
+
+.deck {
+    padding: 5%;
+}
+
+.pricing-head {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.card-header {
+    background-color: rgb(92, 88, 88);
+}
