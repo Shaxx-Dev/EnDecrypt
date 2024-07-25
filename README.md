@@ -1,5 +1,4 @@
 # EnDecrypt
-EnDecrypt
 EnDecrypt is a simple web-based application designed to encrypt and decrypt text using the Caesar Cipher algorithm. This project is built using HTML, CSS, and JavaScript, providing an easy-to-use interface for users to encode and decode their messages.
 
 Features
